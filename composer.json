@@ -3,8 +3,7 @@
 	"description":"HM_Rewrite is a wrapper for the WordPress WP Rewrite system. http://hmn.md/wordpress-rewrite-rules-hm-core-style/",
 	"type":"wordpress-muplugin",
 	"require":{
-		"php":">=5.2",
-		"composer/installers":"~1.0"
+		"php":">=5.2"
 	},
 	"license":"GPL-2.0-or-later",
 	"authors":[
